@@ -1,0 +1,49 @@
+$ git init
+Initialized empty Git repository in C:/Projects/Language/gitlearning/.git/
+
+
+$ git clone https://github.com/pradeeppadmarajaiah/learning-links
+Cloning into 'learning-links'...
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+
+$ git add .
+
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   git/git.txt
+		
+$ git commit -m "added git learning links"
+[master 7876812] added git learning links
+ 1 file changed, 8 insertions(+)
+ create mode 100644 git/git.txt
+ 
+$ git push origin master
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 550 bytes | 0 bytes/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/pradeeppadmarajaiah/learning-links
+   c593f75..7876812  master -> master
+
+$ git pull
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/pradeeppadmarajaiah/learning-links
+   7876812..ed41984  master     -> origin/master
+Updating 7876812..ed41984
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+ 

@@ -1,6 +1,7 @@
 Git Learning links
 
 	http://rogerdudler.github.io/git-guide/
+	http://sixrevisions.com/git/interactive-git-tutorials/
 	
 your local repository consists of three "trees" maintained by git. 
 	the first one is your Working Directory which holds the actual files. 

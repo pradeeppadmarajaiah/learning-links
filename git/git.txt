@@ -1,5 +1,5 @@
 Git Learning links
-
+	https://githowto.com/setup
 	http://rogerdudler.github.io/git-guide/
 	http://sixrevisions.com/git/interactive-git-tutorials/
 	

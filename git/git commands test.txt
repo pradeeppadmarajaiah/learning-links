@@ -46,4 +46,16 @@ Fast-forward
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
 
+ $ git pull
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/pradeeppadmarajaiah/learning-links
+   7876812..ed41984  master     -> origin/master
+Updating 7876812..ed41984
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
  

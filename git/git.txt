@@ -12,3 +12,8 @@ your local repository consists of three "trees" maintained by git.
 	
 http://stackoverflow.com/questions/26838177/how-to-delete-one-folder-from-git-repo
 http://stackoverflow.com/questions/307579/how-do-i-copy-a-version-of-a-single-file-from-one-git-branch-to-another
+
+
+Git question
+http://career.guru99.com/top-40-interview-questions-on-git/
+
